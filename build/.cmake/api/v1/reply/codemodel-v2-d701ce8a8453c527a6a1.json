@@ -1,0 +1,284 @@
+{
+  "configurations": [
+    {
+      "directories": [
+        {
+          "build": ".",
+          "jsonFile": "directory-.-Debug-f5ebdc15457944623624.json",
+          "minimumCMakeVersion": {
+            "string": "3.10"
+          },
+          "projectIndex": 0,
+          "source": ".",
+          "targetIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "name": "Debug",
+      "projects": [
+        {
+          "directoryIndexes": [
+            0
+          ],
+          "name": "iceoryx_pointcloud",
+          "targetIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "directoryIndex": 0,
+          "id": "geometry_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-geometry_msgs_generate_messages_cpp-Debug-f8dc621c8ae4d28d1f5a.json",
+          "name": "geometry_msgs_generate_messages_cpp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "geometry_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-geometry_msgs_generate_messages_eus-Debug-2e6cf1e1c388c41deed3.json",
+          "name": "geometry_msgs_generate_messages_eus",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "geometry_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-geometry_msgs_generate_messages_lisp-Debug-0d431d697ca001efd7c5.json",
+          "name": "geometry_msgs_generate_messages_lisp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "geometry_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-geometry_msgs_generate_messages_nodejs-Debug-a693654c73031adcce2e.json",
+          "name": "geometry_msgs_generate_messages_nodejs",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "geometry_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-geometry_msgs_generate_messages_py-Debug-a4a09038cea932060cba.json",
+          "name": "geometry_msgs_generate_messages_py",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "pointcloud_pub_node::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-pointcloud_pub_node-Debug-ac20d51699f7ccc4abb4.json",
+          "name": "pointcloud_pub_node",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "pointcloud_sub_node::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-pointcloud_sub_node-Debug-aaa68f7eebfe9e81d082.json",
+          "name": "pointcloud_sub_node",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "roscpp_generate_messages_cpp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-roscpp_generate_messages_cpp-Debug-df2687311b185c64df5d.json",
+          "name": "roscpp_generate_messages_cpp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "roscpp_generate_messages_eus::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-roscpp_generate_messages_eus-Debug-ad089f34bf004d58c3c2.json",
+          "name": "roscpp_generate_messages_eus",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "roscpp_generate_messages_lisp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-roscpp_generate_messages_lisp-Debug-1502de9b63f25df74056.json",
+          "name": "roscpp_generate_messages_lisp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "roscpp_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-roscpp_generate_messages_nodejs-Debug-187841bd0a88c0c78fb9.json",
+          "name": "roscpp_generate_messages_nodejs",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "roscpp_generate_messages_py::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-roscpp_generate_messages_py-Debug-856b17ada3727be69531.json",
+          "name": "roscpp_generate_messages_py",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "rosgraph_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-rosgraph_msgs_generate_messages_cpp-Debug-878df69894a317a1d3c8.json",
+          "name": "rosgraph_msgs_generate_messages_cpp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "rosgraph_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-rosgraph_msgs_generate_messages_eus-Debug-853d24904c97839167b2.json",
+          "name": "rosgraph_msgs_generate_messages_eus",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "rosgraph_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-rosgraph_msgs_generate_messages_lisp-Debug-151d3bb31a52dabb8037.json",
+          "name": "rosgraph_msgs_generate_messages_lisp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "rosgraph_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-rosgraph_msgs_generate_messages_nodejs-Debug-001631164248d0bb9ca7.json",
+          "name": "rosgraph_msgs_generate_messages_nodejs",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "rosgraph_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-rosgraph_msgs_generate_messages_py-Debug-e2ecb50e6855ffb2568a.json",
+          "name": "rosgraph_msgs_generate_messages_py",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "sensor_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-sensor_msgs_generate_messages_cpp-Debug-1b1e3dcef236f4cafea7.json",
+          "name": "sensor_msgs_generate_messages_cpp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "sensor_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-sensor_msgs_generate_messages_eus-Debug-9a5171aa7c32ed4454c1.json",
+          "name": "sensor_msgs_generate_messages_eus",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "sensor_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-sensor_msgs_generate_messages_lisp-Debug-9f4386c06c30cca01072.json",
+          "name": "sensor_msgs_generate_messages_lisp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "sensor_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-sensor_msgs_generate_messages_nodejs-Debug-dba6ab09a935da380122.json",
+          "name": "sensor_msgs_generate_messages_nodejs",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "sensor_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-sensor_msgs_generate_messages_py-Debug-1a7600f86805faf07dc6.json",
+          "name": "sensor_msgs_generate_messages_py",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "std_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-std_msgs_generate_messages_cpp-Debug-de4eb5d08e301bf0d13c.json",
+          "name": "std_msgs_generate_messages_cpp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "std_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-std_msgs_generate_messages_eus-Debug-ddc93a739fba1c5121ea.json",
+          "name": "std_msgs_generate_messages_eus",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "std_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-std_msgs_generate_messages_lisp-Debug-0cc76e57fac4b6827444.json",
+          "name": "std_msgs_generate_messages_lisp",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "std_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-std_msgs_generate_messages_nodejs-Debug-a5f71a856077bf81427d.json",
+          "name": "std_msgs_generate_messages_nodejs",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "std_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-std_msgs_generate_messages_py-Debug-6dd8eab88e1e11d45edc.json",
+          "name": "std_msgs_generate_messages_py",
+          "projectIndex": 0
+        }
+      ]
+    }
+  ],
+  "kind": "codemodel",
+  "paths": {
+    "build": "/home/ubuntu/code_base/test_iceoryx_pointcloud/build",
+    "source": "/home/ubuntu/code_base/test_iceoryx_pointcloud"
+  },
+  "version": {
+    "major": 2,
+    "minor": 4
+  }
+}

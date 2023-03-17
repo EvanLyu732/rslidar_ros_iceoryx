@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/code_base/test_iceoryx_pointcloud/cmake-build-debug",
+  "command": "/usr/bin/g++-11 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"iceoryx_pointcloud\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/local/include/iceoryx/v -O1 -Wall -g -g -std=gnu++17 -o CMakeFiles/pointcloud_pub_node.dir/pub_node.cpp.o -c /home/ubuntu/code_base/test_iceoryx_pointcloud/pub_node.cpp",
+  "file": "/home/ubuntu/code_base/test_iceoryx_pointcloud/pub_node.cpp"
+},
+{
+  "directory": "/home/ubuntu/code_base/test_iceoryx_pointcloud/cmake-build-debug",
+  "command": "/usr/bin/g++-11 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"iceoryx_pointcloud\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/local/include/iceoryx/v -O1 -Wall -g -g -std=gnu++17 -o CMakeFiles/pointcloud_sub_node.dir/sub_node.cpp.o -c /home/ubuntu/code_base/test_iceoryx_pointcloud/sub_node.cpp",
+  "file": "/home/ubuntu/code_base/test_iceoryx_pointcloud/sub_node.cpp"
+}
+]
